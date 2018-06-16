@@ -11,10 +11,10 @@
     "@angular/forms": "6.0.5",
     "@angular/http": "6.0.5",
     "@angular/material": "6.2.1",
-    "@angular/platform-browser-dynamic": "6.0.5",
     "@angular/platform-browser": "6.0.5",
+    "@angular/platform-browser-dynamic": "6.0.5",
     "core-js": "2.5.7",
-    "ng2-qgrid": "6.1.1",
+    "ng2-qgrid": "^6.1.1",
     "rxjs": "6.2.1",
     "zone.js": "0.8.26"
   },
