@@ -1,13 +1,12 @@
 @import '~@angular/material/prebuilt-themes/indigo-pink.css';
-
 body {
-  height: 100%;
-  overflow: hidden;
+    height: 100%;
+    overflow: hidden;
 }
 
-.example-app {
-  height: 100vh;
-  padding: 10px;
-  display: block;
-  box-sizing: border-box;
+.example {
+    height: 100vh;
+    padding: 10px;
+    display: block;
+    box-sizing: border-box;
 }
