@@ -1,11 +1,7 @@
 {
   "name": "ng2-qgrid-example",
-  "version": "0.0.0",
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve"
-  },
-  "private": true,
+  "description": "",
+  "homepage": "https://github.com/qgrid/ng2",
   "dependencies": {
     "@angular/animations": "6.0.5",
     "@angular/cdk": "6.2.1",
@@ -22,6 +18,9 @@
     "rxjs": "6.2.1",
     "zone.js": "0.8.26"
   },
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
   "devDependencies": {
     "@angular/cli": "1.6.7",
     "@angular/compiler-cli": "^5.0.0",
