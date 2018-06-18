@@ -4,16 +4,14 @@ import { FormsModule } from '@angular/forms';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule, MatSelectModule, MatChipsModule } from '@angular/material';
 
-import { DataService } from '../data.service';
 import { AppComponent } from './app.component';
-
 import { GridModule } from 'ng2-qgrid';
 import { ThemeModule } from 'ng2-qgrid/theme/material';
 
 @NgModule({
 	declarations: [AppComponent],
 	bootstrap: [AppComponent],
-	providers: [DataService],
+	providers: [],
 	imports: [
 		GridModule,
 		ThemeModule,
