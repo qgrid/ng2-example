@@ -26,6 +26,5 @@ import { ThemeModule } from 'ng2-qgrid/theme/material';
 		MatChipsModule,
 		MatIconModule,
 	],
-
 })
 export class AppModule { }
