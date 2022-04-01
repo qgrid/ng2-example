@@ -13,7 +13,7 @@
     "@angular/platform-browser": "11.2.3",
     "@angular/platform-browser-dynamic": "11.2.3",
     "core-js": "3.9.1",
-    "ng2-qgrid": "^11.0.0",
+    "ng2-qgrid": "^13.0.1-alpha.3430",
     "rxjs": "6.6.6",
     "zone.js": "0.11.4"
   },
