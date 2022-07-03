@@ -11,6 +11,7 @@ import { MatSelectModule } from '@angular/material/select';
 import { AppComponent } from './app.component';
 import { GridModule, PipeModule } from 'ng2-qgrid';
 import { ThemeModule } from 'ng2-qgrid/theme/material';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [AppComponent],
@@ -19,8 +20,8 @@ import { ThemeModule } from 'ng2-qgrid/theme/material';
   imports: [
     GridModule,
     ThemeModule,
-    PipeModule,
 
+    HttpClientModule,
     BrowserModule,
     FormsModule,
     BrowserAnimationsModule,
