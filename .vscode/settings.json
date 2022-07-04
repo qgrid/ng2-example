@@ -1,0 +1,14 @@
+{
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "typescript.preferences.quoteStyle": "single",
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "html.format.wrapAttributes": "force-aligned",
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true,
+  "editor.codeActionsOnSave": {
+    "source.sortImports": false,
+    "source.organizeImports": false
+  }
+}
