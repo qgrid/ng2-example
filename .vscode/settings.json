@@ -1,7 +1,6 @@
 {
   "typescript.tsdk": "./node_modules/typescript/lib",
   "typescript.preferences.quoteStyle": "single",
-  "javascript.preferences.quoteStyle": "single",
   "js/ts.implicitProjectConfig.experimentalDecorators": true,
   "html.format.wrapAttributes": "force-aligned",
   "files.insertFinalNewline": true,
@@ -11,19 +10,5 @@
   "editor.codeActionsOnSave": {
     "source.sortImports": false,
     "source.organizeImports": false
-  },
-  "css.validate": false,
-  "scss.validate": false,
-  "stylelint.validate": ["css", "scss"],
-  "eslint.workingDirectories": [
-    "packages/ng2-qgrid",
-    "packages/qgrid-core",
-    "packages/qgrid-ngx",
-    "packages/qgrid-ngx-examples",
-    "packages/qgrid-ngx-plugins",
-    "packages/qgrid-ngx-theme-basic",
-    "packages/qgrid-ngx-theme-material",
-    "packages/qgrid-plugins",
-    "packages/qgrid-styles",
-  ]
+  }
 }
