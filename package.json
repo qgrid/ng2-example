@@ -26,6 +26,7 @@
     "@angular/router": "~13.1.0",
     "@qgrid/core": "13.1.0",
     "@qgrid/ngx-plugins": "13.1.0",
+    "@qgrid/ngx-theme-material": "13.1.0",
     "@qgrid/ngx": "13.1.0",
     "@qgrid/plugins": "13.1.0",
     "ng2-qgrid": "13.1.0",
